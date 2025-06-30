@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmoxiaRp/W8=",
+  "success": true,
+  "projectFilePath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/alara.akgunhf/.nuget/packages/microsoft.netcore.app.ref/8.0.17/microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "/Users/alara.akgunhf/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.17/microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

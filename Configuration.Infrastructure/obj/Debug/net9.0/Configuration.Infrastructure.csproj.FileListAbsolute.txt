@@ -1,0 +1,5 @@
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/obj/Debug/net9.0/Configuration.Infrastructure.csproj.AssemblyReference.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/obj/Debug/net9.0/Configuration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/obj/Debug/net9.0/Configuration.Infrastructure.AssemblyInfoInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/obj/Debug/net9.0/Configuration.Infrastructure.AssemblyInfo.cs
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/obj/Debug/net9.0/Configuration.Infrastructure.csproj.CoreCompileInputs.cache

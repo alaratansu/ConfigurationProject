@@ -1,0 +1,17 @@
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Application.deps.json
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Application.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Application.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Domain.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Persistence.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Domain.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/bin/Debug/net8.0/Configuration.Persistence.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.csproj.AssemblyReference.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.AssemblyInfoInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.AssemblyInfo.cs
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.csproj.CoreCompileInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configur.289C4650.Up2Date
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/refint/Configuration.Application.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/Configuration.Application.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/Debug/net8.0/ref/Configuration.Application.dll

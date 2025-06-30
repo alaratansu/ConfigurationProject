@@ -1,0 +1,7 @@
+﻿**/.git
+**/.vscode
+**/node_modules
+**/bin
+**/obj
+**/*.dbmdl
+**/*.user

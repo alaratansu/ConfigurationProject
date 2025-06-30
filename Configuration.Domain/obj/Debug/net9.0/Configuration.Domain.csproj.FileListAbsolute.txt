@@ -1,0 +1,11 @@
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/bin/Debug/net9.0/Configuration.Domain.deps.json
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/bin/Debug/net9.0/Configuration.Domain.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/bin/Debug/net9.0/Configuration.Domain.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/Configuration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/Configuration.Domain.AssemblyInfoInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/Configuration.Domain.AssemblyInfo.cs
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/Configuration.Domain.csproj.CoreCompileInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/Configuration.Domain.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/refint/Configuration.Domain.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/Configuration.Domain.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/Debug/net9.0/ref/Configuration.Domain.dll

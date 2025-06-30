@@ -1,0 +1,17 @@
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/bin/Debug/net9.0/Configuration.Persistence.deps.json
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/bin/Debug/net9.0/Configuration.Persistence.runtimeconfig.json
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/bin/Debug/net9.0/Configuration.Persistence.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/bin/Debug/net9.0/Configuration.Persistence.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/bin/Debug/net9.0/Configuration.Domain.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/bin/Debug/net9.0/Configuration.Domain.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.csproj.AssemblyReference.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.AssemblyInfoInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.AssemblyInfo.cs
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.csproj.CoreCompileInputs.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configur.AE2DFFBE.Up2Date
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/refint/Configuration.Persistence.dll
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.pdb
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/Configuration.Persistence.genruntimeconfig.cache
+/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/Debug/net9.0/ref/Configuration.Persistence.dll

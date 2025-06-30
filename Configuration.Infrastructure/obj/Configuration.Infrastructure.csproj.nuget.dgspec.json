@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/Configuration.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/Configuration.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/Configuration.Application.csproj",
+        "projectName": "Configuration.Application",
+        "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/Configuration.Application.csproj",
+        "packagesPath": "/Users/alara.akgunhf/.nuget/packages/",
+        "outputPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alara.akgunhf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj": {
+                "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj"
+              },
+              "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/Configuration.Persistence.csproj": {
+                "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/Configuration.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj",
+        "projectName": "Configuration.Domain",
+        "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj",
+        "packagesPath": "/Users/alara.akgunhf/.nuget/packages/",
+        "outputPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alara.akgunhf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/Configuration.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/Configuration.Infrastructure.csproj",
+        "projectName": "Configuration.Infrastructure",
+        "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/Configuration.Infrastructure.csproj",
+        "packagesPath": "/Users/alara.akgunhf/.nuget/packages/",
+        "outputPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alara.akgunhf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/Configuration.Application.csproj": {
+                "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Application/Configuration.Application.csproj"
+              },
+              "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj": {
+                "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[10.0.0-preview.5.25277.114, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/Configuration.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/Configuration.Persistence.csproj",
+        "projectName": "Configuration.Persistence",
+        "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/Configuration.Persistence.csproj",
+        "packagesPath": "/Users/alara.akgunhf/.nuget/packages/",
+        "outputPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alara.akgunhf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj": {
+                "projectPath": "/Users/alara.akgunhf/RiderProjects/ConfigurationProject/ConfigurationProject/Configuration.Domain/Configuration.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
